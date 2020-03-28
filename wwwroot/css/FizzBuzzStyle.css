@@ -1,0 +1,23 @@
+﻿
+
+
+
+
+﻿.fizzBuzz {
+    color: darkgreen;
+   
+    font-weight: bold;
+}
+
+.fizz {
+    color: dodgerblue;
+}
+
+.buzz {
+    color: fuchsia;
+}
+
+.noBuzz {
+    color: black;
+    font-weight: bold;
+}
